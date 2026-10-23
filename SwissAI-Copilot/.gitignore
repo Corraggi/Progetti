@@ -1,0 +1,14 @@
+# Ambiente virtuale Python
+.venv/
+
+# File temporanei Python
+__pycache__/
+*.pyc
+
+# Credenziali e configurazioni riservate
+.env
+.env.*
+
+# File degli IDE
+.vscode/
+.idea/
